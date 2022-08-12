@@ -6,6 +6,15 @@ San Diego State University.
 As I learn more about web programming, the remainder of this site will be filled out with more relevant details
 about my life, experience, and goals.
 
+### To Do:
+ - More complete profile.
+ - Exhaustive Job History.
+ - Summary of thesis work with interactive plotly examples.
+ - Link to download resume.
+ - Link to LinkedIn profile.
+ - Link to Github itself.
+
+
 [//]: # (The rest of the webpage is under construction.)
 
 [//]: # (### Markdown)
