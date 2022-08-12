@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Welcome to my webpage!
 
-You can use the [editor on GitHub](https://github.com/JAGDiaz/JAGDIAZ.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a self-motivated recent graduate of the Applied Mathematics Masters program at
+San Diego State University. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As I learn more about web programming, the remainder of this site will be filled out with more relevant details
+about my life, experience, and goals.
 
-### Markdown
+[//]: # (The rest of the webpage is under construction.)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[//]: # (### Markdown)
 
-```markdown
-Syntax highlighted code block
+[//]: # (Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for)
 
-# Header 1
-## Header 2
-### Header 3
+[//]: # (```markdown)
+[//]: # (Syntax highlighted code block)
 
-- Bulleted
-- List
+[//]: # (# Header 1)
+[//]: # (## Header 2)
+[//]: # (### Header 3)
 
-1. Numbered
-2. List
+[//]: # (- Bulleted)
+[//]: # (- List)
 
-**Bold** and _Italic_ and `Code` text
+[//]: # (1. Numbered)
+[//]: # (2. List)
 
-[Link](url) and ![Image](src)
-```
+[//]: # (**Bold** and _Italic_ and `Code` text)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[//]: # ([Link](url) and ![Image](src))
+[//]: # (```)
 
-### Jekyll Themes
+[//]: # (For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JAGDiaz/JAGDIAZ.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[//]: # (### Jekyll Themes)
 
-### Support or Contact
+[//]: # (Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JAGDiaz/JAGDIAZ.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[//]: # (### Support or Contact)
+
+[//]: # (Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.)
